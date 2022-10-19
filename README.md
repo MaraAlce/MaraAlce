@@ -1,8 +1,9 @@
- <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi"> <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi"> <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi">
- <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi"> <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi"> <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi">
- <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi"> <img src="https://media1.giphy.com/media/10Bb1Bq7BMi9Co/200w.webp?cid=ecf05e47bxzncjncsayr596j8q0j6g7nqlg4xw685mjsz3z9&rid=200w.webp&ct=s" width="100px" alt="hi">
+
+<div>
+<img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0071.gif" width="1000px" alt="hi" align="center"> <br>
+ <h1 align="center">Welcome to my Profile!</h1> 
+ </div>
  
- <h1>Welcome to my Profile! </h1> 
 <!--
 **MaraAlce/MaraAlce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
