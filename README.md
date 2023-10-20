@@ -3,7 +3,6 @@
  <br/>
 <img src="https://github.com/MaraAlce/MaraAlce/assets/89542647/a9e28ddf-492d-446e-ad72-afb48d3171ac" width="200px"align="left">
  <br/> 
- <br/> 
  <p> ☕  Hello! My name is Maria Alice.</p>
  <p> 📚 I am a computer science student at COTUCA - Colégio Técnico de Campinas - Unicamp</p>
  <p> 💻 I have a preference for Front-end development.</p>
