@@ -1,16 +1,12 @@
 <img src="https://www.imagensanimadas.com/data/media/280/estrela-imagem-animada-0071.gif" width="1000px" alt="hi" align="center"> <br>
  <h1 align="center" >Welcome to my Profile!</h1> 
  <br/>
-<img src="https://github.com/MaraAlce/MaraAlce/assets/89542647/a9e28ddf-492d-446e-ad72-afb48d3171ac" width="200px"align="left">
- <br/> 
-  <br/> 
+<img src="https://i.gifer.com/origin/cb/cb7c480b6aede47a9776537673646e1e_w200.webp" width="250px"align="right">
  <p> ☕  Hello! My name is Maria Alice.</p>
  <p> 📚 I am a computer science student at COTUCA - Colégio Técnico de Campinas - Unicamp</p>
  <p> 💻 I have a preference for Front-end development.</p>
  <br/> 
- <br/> 
-  <br/> 
-<img src="https://i.imgur.com/lPxTkwC.png" width="1000" align="left">
+
 
 
  
