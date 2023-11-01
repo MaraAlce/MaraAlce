@@ -10,8 +10,6 @@
 <div>
 <h2> 🤓 My Skills</h2>
 <div>
- <img src="https://i.gifer.com/origin/f9/f9abd21a7f2be6472c1852518c8e605b_w200.webp" width="150px"align="left"> 
-  <img src="https://i.gifer.com/origin/f9/f9abd21a7f2be6472c1852518c8e605b_w200.webp" width="150px"align="right">
   <table align="center">
     <tr>
       <td>
