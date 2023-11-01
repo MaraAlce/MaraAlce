@@ -9,12 +9,11 @@
  
 <div>
 <h1> 🤓 My Skills</h1>
-<div aling-items="center">
-  <table align="right">
+<div>
+ <img src="https://i.gifer.com/origin/f9/f9abd21a7f2be6472c1852518c8e605b_w200.webp" width="150px"align="left"> 
+  <img src="https://i.gifer.com/origin/f9/f9abd21a7f2be6472c1852518c8e605b_w200.webp" width="150px"align="right">
+  <table align="center">
     <tr>
-     <th colspan="2" rowspan="3">
-    <img src="https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.webp" width="350px" align="left">
-    </th>
       <td>
         <h2>Programming Languages</h2>
         <div align="center">
